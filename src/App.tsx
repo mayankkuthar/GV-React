@@ -49,6 +49,15 @@ function App() {
           }
         />
         <Route
+          path="/GV-React"
+          element={
+            <>
+              <PageTitle title="Home | Gram-Vikas | Emulus Consulting" />
+              <Home />
+            </>
+          }
+        />
+        <Route
           path="/user_guide"
           element={
             <>
