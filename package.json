@@ -2,7 +2,7 @@
   "name": "tailadmin-react-free",
   "private": true,
   "version": "1.3.8",
-  "homepage": "https://mayankkuthar.github.io/react-gh-pages",
+  "homepage": "https://mayankkuthar.github.io/GV-React",
   "type": "module",
   "scripts": {
     "dev": "vite",
